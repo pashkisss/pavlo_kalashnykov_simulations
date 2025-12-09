@@ -83,16 +83,16 @@
 ## Результати зображень (приклад):
 
 ### **initial-number-sheep = 50**
-![Популяції при 50 овець](lab1/images/exp1_sheep50.png)
+![Популяції при 50 овець](images/exp1_sheep50.png)
 
 ### **initial-number-sheep = 100**
-![Популяції при 100 овець](lab1/images/exp1_sheep100.png)
+![Популяції при 100 овець](images/exp1_sheep100.png)
 
 ### **initial-number-sheep = 150**
-![Популяції при 150 овець](lab1/images/exp1_sheep150.png)
+![Популяції при 150 овець](images/exp1_sheep150.png)
 
 ### **initial-number-sheep = 200**
-![Популяції при 200 овець](lab1/images/exp1_sheep200.png)
+![Популяції при 200 овець](images/exp1_sheep200.png)
 
 ---
 
@@ -125,16 +125,16 @@
 ## Зображення результатів
 
 ### grass = 10
-![grass10](lab1/images/exp2_grass10.png)
+![grass10](images/exp2_grass10.png)
 
 ### grass = 20
-![grass20](lab1/images/exp2_grass20.png)
+![grass20](images/exp2_grass20.png)
 
 ### grass = 30
-![grass30](lab1/images/exp2_grass30.png)
+![grass30](images/exp2_grass30.png)
 
 ### grass = 40
-![grass40](lab1/images/exp2_grass40.png)
+![grass40](images/exp2_grass40.png)
 
 ---
 
@@ -169,16 +169,16 @@
 ## Графіки
 
 ### reproduce = 1%
-![wolf1](lab1/images/exp3_wolfReproduce1.png)
+![wolf1](images/exp3_wolfReproduce1.png)
 
 ### reproduce = 3%
-![wolf3](lab1/images/exp3_wolfReproduce3.png)
+![wolf3](images/exp3_wolfReproduce3.png)
 
 ### reproduce = 5%
-![wolf5](lab1/images/exp3_wolfReproduce5.png)
+![wolf5](images/exp3_wolfReproduce5.png)
 
 ### reproduce = 7%
-![wolf7](lab1/images/exp3_wolfReproduce7.png)
+![wolf7](images/exp3_wolfReproduce7.png)
 
 ---
 
