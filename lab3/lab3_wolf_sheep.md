@@ -91,7 +91,7 @@ BehaviorSearch автоматично зчитав параметри та їх�
 ![](image/search_objective.png)
 ---
 
-## 4.3. Вкладка **Search Algorithm**
+## 4.3. Владка **Search Algorithm**
 
 ### Для StandardGA:
 
