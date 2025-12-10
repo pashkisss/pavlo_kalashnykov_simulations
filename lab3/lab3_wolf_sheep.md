@@ -74,6 +74,7 @@ BehaviorSearch автоматично зчитав параметри та їх�
 - **Setup:** `setup`  
 - **Step:** `go`  
 
+![](image/model.png)
 ---
 
 ## 4.2. Вкладка **Search Objective**
@@ -86,6 +87,7 @@ BehaviorSearch автоматично зчитав параметри та їх�
 | **Collected measure** | MEAN_ACROSS_STEPS |
 | **Replicates** | RandomSearch: 3, StandardGA: 10 |
 | **Combine replicates** | MEAN |
+
 
 ---
 
